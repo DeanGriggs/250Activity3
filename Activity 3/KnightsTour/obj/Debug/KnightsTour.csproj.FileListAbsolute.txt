@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\obj\Debug\KnightsTour.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\obj\Debug\KnightsTour.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\obj\Debug\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\KnightsTour\obj\Debug\KnightsTour.pdb

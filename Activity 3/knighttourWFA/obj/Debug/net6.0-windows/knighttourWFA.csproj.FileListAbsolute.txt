@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.Form1.resources
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.AssemblyInfo.cs
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\knighttourWFA\obj\Debug\net6.0-windows\knighttourWFA.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\bin\Debug\Activity 3.exe.config
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\bin\Debug\Activity 3.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\bin\Debug\Activity 3.pdb
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\obj\Debug\Activity 3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\obj\Debug\Activity 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\obj\Debug\Activity 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\obj\Debug\Activity 3.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\Activity 3\obj\Debug\Activity 3.pdb
